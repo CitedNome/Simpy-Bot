@@ -68,4 +68,4 @@ for filename in os.listdir('/mnt/DATI/Documenti/Carlo/Simpy/cogs'):
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
-client.run('NzYyNzE1MTEwNzUyOTExNDAw.X3tLzA.ou4rDa9TBpF2LVKRn9ZpN-4IdgE')
+client.run('')
